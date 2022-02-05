@@ -1,0 +1,20 @@
+body
+{
+text-align: center;
+}
+#header{
+    width:100%;
+    display: inline;
+    background: red;
+    color:black;
+}
+#footer{
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color:white;
+    margin:0px;
+    text-align: center;
+    position:fixed;
+    line-height: 3;
+}
